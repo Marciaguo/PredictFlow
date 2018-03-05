@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9b3a14e-03f7-4564-8942-bd154885c82c" name="Default" comment="" />
+    <ignored path="tianchi.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/tianchi$manage.coverage" NAME="manage Coverage Results" MODIFIED="1489472895892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="tianchi" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="sql_helper.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataBase/sql_helper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shop_info.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bean/shop_info.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bean/user.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file_processing.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file/file_processing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="38" column="65" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="65" />
+              <folding>
+                <marker date="1489320847000" expanded="true" signature="588:617" placeholder="DROP TABLE i... " />
+                <marker date="1489320847000" expanded="true" signature="662:910" placeholder="CREATE TABLE... ShopInfo" />
+                <marker date="1489320847000" expanded="true" signature="662:998" placeholder="CREATE TABLE... ShopInfo" />
+                <marker date="1489320847000" expanded="true" signature="1183:1212" placeholder="INSERT INTO ShopInfo... " />
+                <marker date="1489320847000" expanded="true" signature="1183:1466" placeholder="INSERT INTO ShopInfo... " />
+                <marker date="1489320847000" expanded="true" signature="1183:1710" placeholder="INSERT INTO ShopInfo... " />
+                <marker date="1489320847000" expanded="true" signature="1772:2282" placeholder="INSERT INTO ShopInfo... " />
+                <marker date="1489320847000" expanded="true" signature="2613:2641" placeholder="DROP TABLE i... " />
+                <marker date="1489320847000" expanded="true" signature="2686:2813" placeholder="CREATE TABLE... UserPay" />
+                <marker date="1489320847000" expanded="true" signature="2686:2815" placeholder="CREATE TABLE... UserPay" />
+                <marker date="1489320847000" expanded="true" signature="2686:2866" placeholder="CREATE TABLE... UserPay" />
+                <marker date="1489320847000" expanded="true" signature="2686:2924" placeholder="CREATE TABLE... ShopInfo" />
+                <marker date="1489320847000" expanded="true" signature="4934:4983" placeholder="INSERT INTO UserPay... " />
+                <marker date="1489320847000" expanded="true" signature="4934:4998" placeholder="INSERT INTO UserPay... " />
+                <marker date="1489320847000" expanded="true" signature="4934:5015" placeholder="INSERT INTO UserPay... " />
+                <marker date="1489320847000" expanded="true" signature="4934:5053" placeholder="INSERT INTO UserPay... " />
+                <marker date="1489320847000" expanded="true" signature="4934:5057" placeholder="INSERT INTO UserPay... " />
+                <marker date="1489320847000" expanded="true" signature="4934:5058" placeholder="INSERT INTO UserPay... " />
+                <marker date="1489320847000" expanded="true" signature="5349:5374" placeholder="DROP TABLE i... " />
+                <marker date="1489320847000" expanded="true" signature="5349:5378" placeholder="DROP TABLE i... " />
+                <marker date="1489320847000" expanded="true" signature="5423:5662" placeholder="CREATE TABLE... UserPay" />
+                <marker date="1489320847000" expanded="true" signature="7013:7137" placeholder="INSERT INTO UserView... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forecast.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/analyze/forecast.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="82" column="39" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#62#0" expanded="true" />
+                <marker date="1489573222000" expanded="true" signature="448:545" placeholder="SELECT per_p... ShopInfo" />
+                <marker date="1489573222000" expanded="true" signature="1378:1421" placeholder="SELECT date,... " />
+                <marker date="1489573222000" expanded="true" signature="1378:1452" placeholder="SELECT date,... " />
+                <marker date="1489573222000" expanded="true" signature="1378:1467" placeholder="SELECT date,... " />
+                <marker date="1489573222000" expanded="true" signature="1378:1468" placeholder="SELECT date,... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manage.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.022900764">
+              <caret line="1" column="21" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bean/UserPay.py" />
+        <option value="$PROJECT_DIR$/bean/UserView.py" />
+        <option value="$PROJECT_DIR$/file/FileProcessing.py" />
+        <option value="$PROJECT_DIR$/bean/ShopInfo.py" />
+        <option value="$PROJECT_DIR$/bean/shop_info.py" />
+        <option value="$PROJECT_DIR$/bean/user_view.py" />
+        <option value="$PROJECT_DIR$/dataBase/sql_helper.py" />
+        <option value="$PROJECT_DIR$/file/file_processing.py" />
+        <option value="$PROJECT_DIR$/bean/user_pay.py" />
+        <option value="$PROJECT_DIR$/bean/user.py" />
+        <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/analyze/forecast.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tianchi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.5.2 (/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tianchi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tianchi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tianchi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tianchi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataBase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tianchi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tianchi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="analyze" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tianchi" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tianchi" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tianchi" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tianchi" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tianchi" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tianchi" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tianchi" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tianchi" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tianchi" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="manage" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tianchi" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.manage" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9b3a14e-03f7-4564-8942-bd154885c82c" name="Default" comment="" />
+      <created>1488683387281</created>
+      <option name="number" value="Default" />
+      <updated>1488683387281</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="773" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31502423" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2966226" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataBase/sql_helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bean/shop_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bean/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/file_processing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="15" />
+          <folding>
+            <marker date="1489320847000" expanded="true" signature="588:617" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="662:910" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="662:998" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="1183:1212" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1183:1466" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1183:1710" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1772:2282" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="2613:2641" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="2686:2813" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2815" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2866" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2924" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="4934:4983" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:4998" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5015" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5053" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5057" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5058" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="5349:5374" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="5349:5378" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="5423:5662" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="7013:7137" placeholder="INSERT INTO UserView... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analyze/forecast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+            <marker date="1489573222000" expanded="true" signature="448:545" placeholder="SELECT per_p... ShopInfo" />
+            <marker date="1489573222000" expanded="true" signature="1378:1421" placeholder="SELECT date,... " />
+            <marker date="1489573222000" expanded="true" signature="1378:1452" placeholder="SELECT date,... " />
+            <marker date="1489573222000" expanded="true" signature="1378:1467" placeholder="SELECT date,... " />
+            <marker date="1489573222000" expanded="true" signature="1378:1468" placeholder="SELECT date,... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataBase/sql_helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bean/shop_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bean/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/file_processing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="15" />
+          <folding>
+            <marker date="1489320847000" expanded="true" signature="588:617" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="662:910" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="662:998" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="1183:1212" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1183:1466" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1183:1710" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1772:2282" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="2613:2641" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="2686:2813" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2815" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2866" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2924" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="4934:4983" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:4998" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5015" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5053" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5057" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5058" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="5349:5374" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="5349:5378" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="5423:5662" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="7013:7137" placeholder="INSERT INTO UserView... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analyze/forecast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+            <marker date="1489573222000" expanded="true" signature="448:545" placeholder="SELECT per_p... ShopInfo" />
+            <marker date="1489573222000" expanded="true" signature="1378:1421" placeholder="SELECT date,... " />
+            <marker date="1489573222000" expanded="true" signature="1378:1452" placeholder="SELECT date,... " />
+            <marker date="1489573222000" expanded="true" signature="1378:1467" placeholder="SELECT date,... " />
+            <marker date="1489573222000" expanded="true" signature="1378:1468" placeholder="SELECT date,... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataBase/sql_helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bean/shop_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bean/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/file_processing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="15" />
+          <folding>
+            <marker date="1489320847000" expanded="true" signature="588:617" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="662:910" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="662:998" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="1183:1212" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1183:1466" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1183:1710" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1772:2282" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="2613:2641" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="2686:2813" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2815" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2866" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2924" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="4934:4983" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:4998" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5015" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5053" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5057" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5058" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="5349:5374" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="5349:5378" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="5423:5662" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="7013:7137" placeholder="INSERT INTO UserView... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analyze/forecast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+            <marker date="1489573222000" expanded="true" signature="448:545" placeholder="SELECT per_p... ShopInfo" />
+            <marker date="1489573222000" expanded="true" signature="1378:1421" placeholder="SELECT date,... " />
+            <marker date="1489573222000" expanded="true" signature="1378:1452" placeholder="SELECT date,... " />
+            <marker date="1489573222000" expanded="true" signature="1378:1467" placeholder="SELECT date,... " />
+            <marker date="1489573222000" expanded="true" signature="1378:1468" placeholder="SELECT date,... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataBase/sql_helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bean/shop_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bean/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/file_processing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="15" />
+          <folding>
+            <marker date="1489320847000" expanded="true" signature="588:617" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="662:910" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="662:998" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="1183:1212" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1183:1466" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1183:1710" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1772:2282" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="2613:2641" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="2686:2813" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2815" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2866" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2924" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="4934:4983" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:4998" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5015" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5053" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5057" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5058" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="5349:5374" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="5349:5378" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="5423:5662" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="7013:7137" placeholder="INSERT INTO UserView... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analyze/forecast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+            <marker date="1489573222000" expanded="true" signature="448:545" placeholder="SELECT per_p... ShopInfo" />
+            <marker date="1489573222000" expanded="true" signature="1378:1421" placeholder="SELECT date,... " />
+            <marker date="1489573222000" expanded="true" signature="1378:1452" placeholder="SELECT date,... " />
+            <marker date="1489573222000" expanded="true" signature="1378:1467" placeholder="SELECT date,... " />
+            <marker date="1489573222000" expanded="true" signature="1378:1468" placeholder="SELECT date,... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataBase/sql_helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bean/shop_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bean/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/file_processing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="15" />
+          <folding>
+            <marker date="1489320847000" expanded="true" signature="588:617" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="662:910" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="662:998" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="1183:1212" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1183:1466" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1183:1710" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1772:2282" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="2613:2641" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="2686:2813" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2815" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2866" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2924" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="4934:4983" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:4998" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5015" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5053" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5057" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5058" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="5349:5374" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="5349:5378" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="5423:5662" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="7013:7137" placeholder="INSERT INTO UserView... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analyze/forecast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+            <marker date="1489573222000" expanded="true" signature="448:545" placeholder="SELECT per_p... ShopInfo" />
+            <marker date="1489573222000" expanded="true" signature="1378:1421" placeholder="SELECT date,... " />
+            <marker date="1489573222000" expanded="true" signature="1378:1452" placeholder="SELECT date,... " />
+            <marker date="1489573222000" expanded="true" signature="1378:1467" placeholder="SELECT date,... " />
+            <marker date="1489573222000" expanded="true" signature="1378:1468" placeholder="SELECT date,... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataBase/sql_helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bean/shop_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/file_processing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1489320847000" expanded="true" signature="588:617" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="662:910" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="662:998" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="1183:1212" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1183:1466" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1183:1710" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1772:2282" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="2613:2641" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="2686:2813" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2815" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2866" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2924" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="4934:4983" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:4998" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5015" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5053" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5057" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5058" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="5349:5374" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="5349:5378" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="5423:5662" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="7013:7137" placeholder="INSERT INTO UserView... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataBase/sql_helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bean/shop_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/file_processing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1489320847000" expanded="true" signature="588:617" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="662:910" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="662:998" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="1183:1212" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1183:1466" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1183:1710" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1772:2282" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="2613:2641" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="2686:2813" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2815" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2866" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2924" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="4934:4983" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:4998" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5015" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5053" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5057" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5058" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="5349:5374" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="5349:5378" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="5423:5662" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="7013:7137" placeholder="INSERT INTO UserView... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataBase/sql_helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bean/shop_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataBase/sql_helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataBase/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/pymysql/cursors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33206832">
+          <caret line="165" column="0" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/sklearn/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33206832">
+          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataBase/sql_helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bean/shop_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bean/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/file_processing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="65" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="65" />
+          <folding>
+            <marker date="1489320847000" expanded="true" signature="588:617" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="662:910" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="662:998" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="1183:1212" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1183:1466" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1183:1710" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="1772:2282" placeholder="INSERT INTO ShopInfo... " />
+            <marker date="1489320847000" expanded="true" signature="2613:2641" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="2686:2813" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2815" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2866" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="2686:2924" placeholder="CREATE TABLE... ShopInfo" />
+            <marker date="1489320847000" expanded="true" signature="4934:4983" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:4998" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5015" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5053" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5057" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="4934:5058" placeholder="INSERT INTO UserPay... " />
+            <marker date="1489320847000" expanded="true" signature="5349:5374" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="5349:5378" placeholder="DROP TABLE i... " />
+            <marker date="1489320847000" expanded="true" signature="5423:5662" placeholder="CREATE TABLE... UserPay" />
+            <marker date="1489320847000" expanded="true" signature="7013:7137" placeholder="INSERT INTO UserView... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analyze/forecast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="39" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+            <marker date="1489573222000" expanded="true" signature="448:545" placeholder="SELECT per_p... ShopInfo" />
+            <marker date="1489573222000" expanded="true" signature="1378:1421" placeholder="SELECT date,... " />
+            <marker date="1489573222000" expanded="true" signature="1378:1452" placeholder="SELECT date,... " />
+            <marker date="1489573222000" expanded="true" signature="1378:1467" placeholder="SELECT date,... " />
+            <marker date="1489573222000" expanded="true" signature="1378:1468" placeholder="SELECT date,... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.022900764">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
